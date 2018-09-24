@@ -12,4 +12,5 @@ def countdown_with_sleep(int)
   while x > 0
     puts "#{x} seconds to midnight"
     x -= 1
+  end
 end
