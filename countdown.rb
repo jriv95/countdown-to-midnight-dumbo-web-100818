@@ -7,10 +7,6 @@ def countdown(int)
   return "HAPPY NEW YEAR!"
 end
 
-def countdown_with_sleep(int)
-  x = 6
-  while x > 0
-    puts "#{x} seconds to midnight"
-    x -= 1
-  end
+def countdown_with_sleep(5)
+
 end
