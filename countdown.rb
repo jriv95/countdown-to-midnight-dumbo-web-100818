@@ -3,4 +3,5 @@ def countdown(int)
   while x > 1
     puts "#{x} SECONDS!"
     x -= 1
+  end
 end
